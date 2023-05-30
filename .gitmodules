@@ -1,3 +1,0 @@
-[submodule "plugins/zsh-cargo-completion"]
-	path = plugins/zsh-cargo-completion
-	url = https://github.com/MenkeTechnologies/zsh-cargo-completion.git
